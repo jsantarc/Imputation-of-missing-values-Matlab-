@@ -1,0 +1,2 @@
+# Imputation-of-missing-values-Matlab-
+datasets contain missing values, often encoded NaNs or other placeholders. Instead of discarding rows  containing missing values that comes a price of losing data which may be valuable. One can impute the missing values, i.e., to infer them from the known part of the data. The Imputer function provides basic strategies for imputing missing values, either using the mean, the median or the most frequent value of the column in which the missing values are located, Just like the Scikit learn version.
